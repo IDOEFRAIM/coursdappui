@@ -1,8 +1,6 @@
-import { TextInput ,Button} from "flowbite-react"    
-import { ArrowRightIcon } from "flowbite-react"
 
 const Page=async ()=>{
-
+//this page aimed at testing loading
     await new Promise((resolve)=>{
             setTimeout(()=>{
                 resolve('We delay for testing timeout')

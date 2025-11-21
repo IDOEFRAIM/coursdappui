@@ -1,7 +1,6 @@
 'use client';
 import { Button, TextInput, Label, HelperText, Textarea, Select } from 'flowbite-react';
 import { ArrowRightIcon } from 'flowbite-react';
-import { BiEnvelope } from 'react-icons/bi';
 
 type InformationsProps = {
   data: {

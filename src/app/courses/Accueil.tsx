@@ -1,5 +1,4 @@
 
-import { CgAdd } from "react-icons/cg"
 import { Card, Button } from "flowbite-react"
 import Image from "next/image"
 import Link from "next/link"

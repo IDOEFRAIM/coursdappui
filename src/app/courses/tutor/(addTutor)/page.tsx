@@ -1,7 +1,4 @@
 'use client'
-import { TextInput ,Button} from "flowbite-react"    
-import { ArrowRightIcon } from "flowbite-react"
-
 import NewTutor from "./newTutor"
 const Page= ()=>{
     return (

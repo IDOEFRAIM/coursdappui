@@ -1,5 +1,5 @@
 'use client';
-import { Pagination, Table, TableBody, TableCell, TableHead, TableHeadCell, TableRow, TextInput, Button } from 'flowbite-react';
+import { Pagination, Table, TableBody, TableCell, TableHead, TableHeadCell, TableRow } from 'flowbite-react';
 import { useState } from 'react';
 import { ArrowLeftIcon } from 'flowbite-react';
 import Link from 'next/link';
